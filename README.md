@@ -1,0 +1,2 @@
+# firstapp
+Firstplugin in cordova
